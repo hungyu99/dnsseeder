@@ -14,19 +14,19 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/karlsen-network/karlsend/app/protocol/common"
-	"github.com/karlsen-network/karlsend/infrastructure/config"
-	"github.com/karlsen-network/karlsend/infrastructure/network/netadapter/standalone"
+	"github.com/hungyu99/freed/app/protocol/common"
+	"github.com/hungyu99/freed/infrastructure/config"
+	"github.com/hungyu99/freed/infrastructure/network/netadapter/standalone"
 
 	"github.com/pkg/errors"
 
-	"github.com/karlsen-network/dnsseeder/version"
-	"github.com/karlsen-network/karlsend/infrastructure/network/dnsseed"
-	"github.com/karlsen-network/karlsend/util/panics"
-	"github.com/karlsen-network/karlsend/util/profiling"
+	"github.com/hungyu99/dnsseeder/version"
+	"github.com/hungyu99/freed/infrastructure/network/dnsseed"
+	"github.com/hungyu99/freed/util/panics"
+	"github.com/hungyu99/freed/util/profiling"
 
-	"github.com/karlsen-network/karlsend/app/appmessage"
-	"github.com/karlsen-network/karlsend/infrastructure/os/signal"
+	"github.com/hungyu99/freed/app/appmessage"
+	"github.com/hungyu99/freed/infrastructure/os/signal"
 
 	_ "net/http/pprof"
 )
