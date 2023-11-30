@@ -13,8 +13,8 @@ github.com/jessevdk/go-flags v1.4.0 h1:4IU2WS7AumrZ/40jfhf4QVDMsQwqA7VEHozFRrGAR
 github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
 github.com/jrick/logrotate v1.0.0 h1:lQ1bL/n9mBNeIXoTUoYRlK4dHuNJVofX9oWqBtPnSzI=
 github.com/jrick/logrotate v1.0.0/go.mod h1:LNinyqDIJnpAur+b8yyulnQw/wDuN1+BYKlTRt3OuAQ=
-github.com/hungyu99/freed v0.0.1 h1:nWPWY9tC/BeVHHuqZee0LNAPyo2v4ea27i1KacpfGgk=
-github.com/hungyu99/freed v0.0.1/go.mod h1:vrd51+Gx36r6MSnoc9Fbx9Q8iRTyH+prMBgOjtP6dSM=
+github.com/hungyu99/freed v1.0.0 h1:nWPWY9tC/BeVHHuqZee0LNAPyo2v4ea27i1KacpfGgk=
+github.com/hungyu99/freed v1.0.0/go.mod h1:vrd51+Gx36r6MSnoc9Fbx9Q8iRTyH+prMBgOjtP6dSM=
 github.com/kaspanet/go-muhash v0.0.4 h1:CQrm1RTJpQy+h4ZFjj9qq42K5fmA5QTGifzb47p4qWk=
 github.com/kaspanet/go-muhash v0.0.4/go.mod h1:10bPW5mO1vNHPSejaAh9ZTtLZE16jzEvgaP7f3Q5s/8=
 github.com/kaspanet/go-secp256k1 v0.0.7 h1:WHnrwopKB6ZeHSbdAwwxNhTqflm56XT1mM6LF4/OvOs=
