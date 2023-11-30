@@ -1,4 +1,4 @@
-module github.com/karlsen-network/dnsseeder
+module github.com/hungyu99/dnsseeder
 
 go 1.18
 
